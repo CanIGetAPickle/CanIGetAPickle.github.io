@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## About Me
+
 
 <p class="message">
   Welcome to my blog!
