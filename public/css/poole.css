@@ -69,21 +69,21 @@ body {
 a {
   color: #268bd2;
   text-decoration: none;
+/*   added */
+  display: inline-block;
+	position: relative;
+	padding-bottom: 2px;
 }
 a strong {
   color: inherit;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
-a:hover,
+/* a:hover,
 a:focus {
   text-decoration: underline;
-}
-.link-underline-effect {
-	display: inline-block;
-	position: relative;
-	padding-bottom: 3px;
-}
-.link-underline-effect:after {
+} */
+
+a:after {
 	content: '';
 	display: block;
 	margin: auto;
@@ -92,7 +92,7 @@ a:focus {
 	background: transparent;
 	transition: width .5s ease, background-color .5s ease;
 }
-.link-underline-effect:hover:after {
+a:hover:after {
 	width: 100%;
 	background: #800;
 }
