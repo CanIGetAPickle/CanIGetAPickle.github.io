@@ -78,6 +78,24 @@ a:hover,
 a:focus {
   text-decoration: underline;
 }
+.link-underline-effect {
+	display: inline-block;
+	position: relative;
+	padding-bottom: 3px;
+}
+.link-underline-effect:after {
+	content: '';
+	display: block;
+	margin: auto;
+	height: 3px;
+	width: 0px;
+	background: transparent;
+	transition: width .5s ease, background-color .5s ease;
+}
+.link-underline-effect:hover:after {
+	width: 100%;
+	background: #800;
+}
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
