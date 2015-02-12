@@ -1,0 +1,25 @@
+# Permalinks
+permalink:        '/:title'
+relative_permalinks: true
+
+# Setup
+title:            Dan Santos
+tagline:          
+url:              https://canigetapickle.github.io
+paginate:         1
+baseurl:          /
+author:           Dan Santos
+  name:           Dan Santos
+  url:            
+  email:          danielrobertsantos@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:           https://github.com/canigetapickle
+  repo:           https://github.com/canigetapickle/canigetapickle.github.io
+  
+# Nav bar
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
