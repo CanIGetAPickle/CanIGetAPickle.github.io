@@ -8,14 +8,14 @@ tagline:
 url:              https://canigetapickle.github.io
 paginate:         1
 baseurl:          /
-author:           Dan Santos
-  name:           Dan Santos
+author:           
+  name:           'Dan Santos'
   url:            
   email:          danielrobertsantos@gmail.com
 
 # Custom vars
 version:          1.0.0
-github:           https://github.com/canigetapickle
+github:           
   repo:           https://github.com/canigetapickle/canigetapickle.github.io
   
 # Nav bar
