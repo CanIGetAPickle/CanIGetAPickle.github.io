@@ -10,6 +10,6 @@ title: About
   Welcome to my blog!
 </p>
 
-Have questions or suggestions? Feel free to [Tweet me](https://twitter.com/canigetapickle).
+Have questions or suggestions? Feel free to <a href="https://twitter.com/canigetapickle">Tweet me</a>.
 
 Thanks for reading!
