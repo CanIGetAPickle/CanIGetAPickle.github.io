@@ -4,7 +4,6 @@ title: About
 ---
 
 
-
 <p class="message">
   Welcome to my blog!
 </p>
