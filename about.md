@@ -4,6 +4,7 @@ title: About
 ---
 
 
+<img src="/public/pf934.png" class="container" />
 <p class="message">
   Welcome to my blog!
 </p>
