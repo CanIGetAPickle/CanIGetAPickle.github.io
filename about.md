@@ -6,7 +6,7 @@ title: About
 
 <img src="/public/pf934.jpg" class="container" />
 
-<p class="message">
+<p>
 {% highlight ruby %}
   dan = Blogger.new ('Dan Santos', 23, :musician, :classicist, :rubyist)
 {% endhighlight %}
