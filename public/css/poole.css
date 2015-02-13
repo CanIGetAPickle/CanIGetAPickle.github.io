@@ -265,6 +265,10 @@ img {
   border-radius: 20px;
 }
 
+.color-ruby {
+  font-color: #800;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
