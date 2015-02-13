@@ -304,6 +304,7 @@ tbody tr:nth-child(odd) th {
   background-color: #ececec;
   text-align: center;
   border-radius: 10px;
+  font-weight: bold;
 }
 
 
