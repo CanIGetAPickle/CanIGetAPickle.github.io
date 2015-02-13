@@ -256,7 +256,6 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-/*   margin: 0 0 1rem; */
   border: 1px solid #333;
 }
 
