@@ -265,6 +265,12 @@ img {
   border-radius: 20px;
 }
 
+.img-round {
+  position: absolute;
+  border: 1px solid #333;
+  border-radius: 50%;
+}
+
 .color-ruby {
   color: #800;
 }
