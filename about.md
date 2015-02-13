@@ -4,7 +4,7 @@ title: About
 ---
 
 
-<img src="/public/pf934.jpg" class="container" />
+<img src="/public/pf934.jpg" class="img-container" />
 
 <p>
 {% highlight ruby %}
