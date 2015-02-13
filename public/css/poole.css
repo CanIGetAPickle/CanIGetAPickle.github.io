@@ -139,6 +139,10 @@ strong {
   color: #303030;
 }
 
+small {
+  font-size: 8px;
+}
+
 
 /* Lists */
 ul, ol, dl {
