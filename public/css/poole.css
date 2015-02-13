@@ -262,6 +262,7 @@ img {
   max-width: 100%;
   margin: 0 0 1rem;
   border: 1px solid #333;
+  border-radius: 20px;
 }
 
 /* Tables */
