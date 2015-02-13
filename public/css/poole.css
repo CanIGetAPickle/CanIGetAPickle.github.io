@@ -309,8 +309,8 @@ tbody tr:nth-child(odd) th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
-  background-color: #ececec;
+  color: #666;
+  background-color: #eee;
   text-align: center;
   border-radius: 10px;
   font-weight: bold;
@@ -350,15 +350,15 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #666;
 }
 .masthead-title a {
-  color: #505050;
+  color: #666;
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #ccc;
   letter-spacing: 0;
 }
 
@@ -379,7 +379,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #333;
   text-align: center;
 }
 .page-title,
@@ -392,7 +392,7 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #999;
   text-align: center;
 }
 
