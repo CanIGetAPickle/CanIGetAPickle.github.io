@@ -447,7 +447,13 @@ tbody tr:nth-child(odd) th {
 
 /* Pagination items can be `span`s or `a`s */
 span.pagination-item {
-  padding-bottom: 3px;
+	content: '';
+	display: block;
+	margin: auto;
+	height: 3px;
+	width: 0px;
+	background: transparent;
+	transition: width .5s ease, background-color .5s ease;
 }
 
 .pagination-item {
