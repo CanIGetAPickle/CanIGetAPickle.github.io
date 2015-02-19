@@ -86,7 +86,7 @@ a:focus {
 } */
 
 a:after {
-  content: '';
+	content: '';
 	display: block;
 	margin: auto;
 	height: 3px;
@@ -451,9 +451,9 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   border: 1px solid #eee;
 }
-/* .pagination-item:first-child {
+.pagination-item:first-child {
   margin-bottom: -1px;
-} */
+}
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
