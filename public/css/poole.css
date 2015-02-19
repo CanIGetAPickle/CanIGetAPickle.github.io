@@ -98,6 +98,9 @@ a:hover:after {
 	width: 100%;
 	background: #800;
 }
+.pagination-item {
+  text-decoration: none;
+}
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
