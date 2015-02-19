@@ -17,13 +17,13 @@ The stack trace was long and not very helpful, mainly pointing me to files I don
 
 I spent at least 2 hours going through my code, comparing it with other sources, even rebuilding parts from scratch.
 
-Then, upon <a href="https://github.com/staycreativedesign">Gustavo</a> gracing me with his virtual presence, I found the source of my pain and suffering:
+Then, upon <a href="https://github.com/staycreativedesign" target="_blank">Gustavo</a> gracing me with his virtual presence, I found the source of my pain and suffering:
 
 ```
 <%= session[:player_name] %> has <%= session [:player_pot] %> and bet $<%= session[:player_bet] %> this round.
 ```
 
-See it? Ahhh, yes. That one little space between "session" and "[:player_pot]" caused my entire app to lash out like <a href="https://www.youtube.com/watch?v=gp-Gu4OkJ2Y">John McEnroe at Wimbledon 1981</a>.
+See it? Ahhh, yes. That one little space between "session" and "[:player_pot]" caused my entire app to lash out like <a href="https://www.youtube.com/watch?v=gp-Gu4OkJ2Y" target="_blank">John McEnroe at Wimbledon 1981</a>.
 
 Sinatra: 1
 
