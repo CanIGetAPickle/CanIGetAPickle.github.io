@@ -99,11 +99,6 @@ a:hover:after {
 	background: #800;
 }
 
-#no-underline {
-  width: 0px;
-	background: transparent;
-}
-
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
@@ -455,6 +450,8 @@ tbody tr:nth-child(odd) th {
   display: block;
   padding: 1rem;
   border: 1px solid #eee;
+  width: 0px;
+	background: transparent;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
