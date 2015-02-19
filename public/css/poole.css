@@ -86,7 +86,7 @@ a:focus {
 } */
 
 a:after {
-	content: '';
+  content: '';
 	display: block;
 	margin: auto;
 	height: 3px;
@@ -100,7 +100,8 @@ a:hover:after {
 }
 
 #no-underline {
-  text-decoration: none !important;
+  width: 0px;
+	background: transparent;
 }
 
 /* Headings */
