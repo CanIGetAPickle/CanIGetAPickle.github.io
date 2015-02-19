@@ -73,7 +73,6 @@ a {
 /*   added */
   display: inline-block;
 	position: relative;
-	padding-bottom: 2px;
 }
 a strong {
   color: inherit;
