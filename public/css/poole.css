@@ -446,6 +446,10 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Pagination items can be `span`s or `a`s */
+span.pagination-item {
+  height: 3px;
+}
+
 .pagination-item {
   display: block;
   padding: 1rem;
