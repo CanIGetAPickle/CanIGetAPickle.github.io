@@ -89,7 +89,7 @@ a:after {
   content: '';
 	display: block;
 	margin: auto;
-	height: 1px;
+	height: 3px;
 	width: 0px;
 	background: transparent;
 	transition: width .5s ease, background-color .5s ease;
@@ -451,9 +451,9 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   border: 1px solid #eee;
 }
-.pagination-item:first-child {
+/* .pagination-item:first-child {
   margin-bottom: -1px;
-}
+} */
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
