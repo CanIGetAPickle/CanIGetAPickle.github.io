@@ -89,7 +89,7 @@ a:after {
   content: '';
 	display: block;
 	margin: auto;
-	height: 0px;
+	height: 1px;
 	width: 0px;
 	background: transparent;
 	transition: width .5s ease, background-color .5s ease;
