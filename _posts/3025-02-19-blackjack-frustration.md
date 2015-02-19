@@ -13,7 +13,7 @@ ArgumentError - wrong number of arguments (1 for 0):
 ...
 ```
 
-The stack trace was long and not very helpful, mainly pointing me to files I don't have access to and/or don't know anything about. It spit out all sorts of words I don't recall using, like "undefined method join" and "unexpected keyword ensure" (which I later found out about <a href="http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/">here</a>).
+The stack trace was long and not very helpful, mainly pointing me to files I don't have access to and/or don't know anything about. It spit out all sorts of words I don't recall using, like "undefined method join" and "unexpected keyword ensure" (which I later found out about <a href="http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/" target="_blank">here</a>).
 
 I spent at least 2 hours going through my code, comparing it with other sources, even rebuilding parts from scratch.
 
