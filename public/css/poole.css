@@ -98,7 +98,7 @@ a:hover:after {
 	width: 100%;
 	background: #800;
 }
-.pagination-item {
+a.pagination-item {
   text-decoration: none !important;
 }
 
