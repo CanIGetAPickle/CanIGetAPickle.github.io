@@ -7,7 +7,7 @@ title:            Dan Santos
 tagline:          'r00by n00by'
 url:              https://canigetapickle.github.io
 paginate:         1
-baseurl:          /
+baseurl:          '/'
 author:           
   name:           'Dan Santos'
   url:            
