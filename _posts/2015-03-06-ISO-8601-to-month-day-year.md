@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Converting ISO 8601 to Month-Day-Year Format (MM/DD/YYYY)
+title: ISO 8601 to Month-Day-Year
 ---
 
 ## What the heck is that?
