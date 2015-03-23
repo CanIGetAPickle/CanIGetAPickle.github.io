@@ -35,5 +35,5 @@ This tucked a nice "MM/DD/YYYY at HH:MM" string into the *dateStr* variable that
 As you might have noticed, I also included the time here. I created a function called *addZero* to add a '0' before minutes less than 10 (otherwise it would show up "12:9" instead of "12:09"; [source](http://www.w3schools.com/jsref/jsref_getminutes.asp)). Also worth noting, months are numbered 0-11, so you need to add 1.
 
 ### References
-[JavaScript Date Reference](http://www.w3schools.com/jsref/jsref_obj_date.asp)
-[Stack Overflow - Convert ISO 8601 time date into plain English](http://stackoverflow.com/questions/12498619/convert-iso-8601-time-date-into-plain-english)
+<a href="http://www.w3schools.com/jsref/jsref_obj_date.asp" target="_blank">JavaScript Date Reference</a>
+<a href="http://stackoverflow.com/questions/12498619/convert-iso-8601-time-date-into-plain-english" target="_blank">Stack Overflow - Convert ISO 8601 time date into plain English</a>

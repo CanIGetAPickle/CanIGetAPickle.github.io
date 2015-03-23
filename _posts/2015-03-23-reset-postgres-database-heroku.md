@@ -18,4 +18,4 @@ This turned out to be the perfect solution. Because I only created two user acco
 
 
 ### References
-[Stack Overflow - How to empty DB in heroku](http://stackoverflow.com/questions/4820549/how-to-empty-db-in-heroku)
+<a href="http://stackoverflow.com/questions/4820549/how-to-empty-db-in-heroku" target="_blank">Stack Overflow - How to empty DB in heroku</a>
