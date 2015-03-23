@@ -105,8 +105,9 @@ a:hover:after {
 	display: block;
 	margin: auto;
 	height: 0;
-	width: 0;
+	width: 100%;
 	background: transparent;
+  text-decoration: none !important;
 }
 
 /* Headings */
