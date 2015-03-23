@@ -100,7 +100,8 @@ a:hover:after {
 }
 
 /* Fix for unwanted button underline */
-.underline-fix {
+.underline-fix > a {
+  text-decoration: none !important;
   content: '';
 	display: block;
 	margin: auto;
