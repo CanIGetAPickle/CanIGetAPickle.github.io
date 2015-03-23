@@ -101,6 +101,7 @@ a:hover:after {
 
 /* Fix for unwanted button underline */
 div.pagination > a:hover {
+  display: inline-block;
   text-decoration: none !important;
 }
 
