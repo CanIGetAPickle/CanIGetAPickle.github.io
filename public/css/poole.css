@@ -100,7 +100,7 @@ a:hover:after {
 }
 
 /* Fix for unwanted button underline */
-div.pagination > a {
+div.pagination > a:hover {
   text-decoration: none !important;
 }
 
