@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resetting The Postgres Database in Heroku
+title: Resetting Postgres Database (Heroku)
 ---
 
 ## There's a command for everything
