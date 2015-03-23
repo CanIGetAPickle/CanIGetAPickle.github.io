@@ -100,7 +100,7 @@ a:hover:after {
 }
 
 /* Fix for unwanted button underline */
-div.pagination {
+div.pagination > a {
   text-decoration-skip: all;
 }
 
