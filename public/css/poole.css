@@ -100,9 +100,13 @@ a:hover:after {
 }
 
 /* Fix for unwanted button underline */
-.underline-fix > a {
-  text-decoration: none !important;
-  text-decoration-skip: all !important;
+.underline-fix {
+  content: '';
+	display: block;
+	margin: auto;
+	height: 3px;
+	width: 0px;
+	background: transparent;
 }
 
 /* Headings */
