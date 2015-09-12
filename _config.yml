@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Dan Santos
 tagline:          'r00by n00by'
 url:              https://canigetapickle.github.io
-paginate:         1
+paginate:         3
 baseurl:          /
 author:           
   name:           'Dan Santos'
@@ -17,6 +17,7 @@ author:
 version:          1.0.0
 github:           
   repo:           https://github.com/canigetapickle/canigetapickle.github.io
+excerpt_separator: "<!--end-excerpt-->"
   
 # Nav bar
 pages_list:       

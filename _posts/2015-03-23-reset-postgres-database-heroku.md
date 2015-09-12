@@ -5,7 +5,7 @@ title: Resetting Heroku Database
 
 ## There's a command for everything
 
-I've been working on a very simple Pinterest clone and ran into a slight issue (read: headache). I thought I took extra care to ensure I deleted all of my test "pins" before installing devise. It turns out I accidentally deleted them in my development environment instead of my production environment. 
+I've been working on a very simple Pinterest clone and ran into a slight issue (read: headache). I thought I took extra care to ensure I deleted all of my test "pins" before installing devise. It turns out I accidentally deleted them in my development environment instead of my production environment. <!--end-excerpt-->
 
 When I went to test out the app on Heroku, there were a couple of stray pins that I didn't want around. I hit the "destroy" link, but was prompted with the error "You're not authorized to edit this pin." (Couldn't really complain about devise kicking in successfully, though.) So my first thought was, "Okay, comment out some of the devise stuff to bypass authentication." Sadly, that resulted in a mess of errors due to all of the devise methods scattered about my code. 
 

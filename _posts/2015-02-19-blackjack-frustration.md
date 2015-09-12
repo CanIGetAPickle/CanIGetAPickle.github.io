@@ -5,7 +5,7 @@ title: Sinatra Blackjack Error
 
 ## Ughhhh...
 
-Errors are nothing new to me, and I've gotten pretty comfortable with deciphering them on my own (and with a little help from Google). This one had me stumped, though: 
+Errors are nothing new to me, and I've gotten pretty comfortable with deciphering them on my own (and with a little help from Google). This one had me stumped, though: <!--end-excerpt-->
 
 ```
 ArgumentError - wrong number of arguments (1 for 0): 

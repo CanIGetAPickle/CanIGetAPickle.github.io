@@ -5,7 +5,7 @@ title: ISO 8601 to Month-Day-Year
 
 ## What the heck is that?
 
-I was creating a small project using the YouTube API. Each video has a "snippet" of information available. One property of such a snippet is "publishedAt" (`snippet.publishedAt`) which returns a *datetime* value ([documentation](https://developers.google.com/youtube/v3/docs/playlistItems)).
+I was creating a small project using the YouTube API. Each video has a "snippet" of information available. One property of such a snippet is "publishedAt" (`snippet.publishedAt`) which returns a *datetime* value ([documentation](https://developers.google.com/youtube/v3/docs/playlistItems)). <!--end-excerpt-->
 
 Little did I know, that *datetime* value would be the ugliest duckling on the page: `2015-03-05T19:27:39Z`.
 
